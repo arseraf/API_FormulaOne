@@ -5,7 +5,7 @@ class Database:
         self.connection = sql.connect(              # Conexión con MySQL
             host = 'localhost',
             user = 'root',
-            password = 'As$37040731',
+            password = '*******',
             db = 'pi01',
             port = 3306, 
             
